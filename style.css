@@ -1,3 +1,6 @@
+h1{
+	color: blue;
+}
 #board {
   margin-top: 10px;
 }
@@ -6,3 +9,54 @@
   border: 1px solid black;
   height: 150px;
 }
+        #field1 {
+            background: #FFFFFF;
+            width: 100px;
+            height: 100px;
+        }
+        #field2 {
+            background: #FFFFFF;
+            width: 100px;
+            height: 100px;
+        }
+        #field3 {
+            background: #FFFFFF;
+            width: 100px;
+            height: 100px;
+        }
+        #field4 {
+            background: #FFFFFF;
+            width: 100px;
+            height: 100px;
+
+        }
+        #field5 {
+            background: #FFFFFF;
+            width: 100px;
+            height: 100px;
+
+        }
+        #field6 {
+            background: #FFFFFF;
+            width: 100px;
+            height: 100px;
+
+        }
+        #field7 {
+            background: #FFFFFF;
+            width: 100px;
+            height: 100px;
+
+        }
+        #field8 {
+            background: #FFFFFF;
+            width: 100px;
+            height: 100px;
+
+        }
+        #field9 {
+            background: #FFFFFF;
+            width: 100px;
+            height: 100px;
+        }
+
